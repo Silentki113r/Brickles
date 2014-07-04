@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>Brickles</title>
+        <vendor>lachlanschahinger</vendor>
+        <homepage href=""/>
+        <description>Brickles</description>
+        <description kind="short">Brickles</description>
+    </information>
+    <update check="always"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="Brickles.jar" main="true"/>
+    <jar href="lib/BrickWall.jar"/>
+</resources>
+    <application-desc main-class="go">
+    </application-desc>
+</jnlp>
