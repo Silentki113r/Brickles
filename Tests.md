@@ -2,7 +2,7 @@ White Box Testing
 ==========
 The purpose of these tests it to test certain lines of code within the ‘Brickles’ game.
 Each test case will be relevant to a line or a few lines of code, which will be tested and compared with the expected outcome.
-These tests cover most go the games functionality.
+These tests cover most of the games functionality.
 
 TEST 1
 ==========
